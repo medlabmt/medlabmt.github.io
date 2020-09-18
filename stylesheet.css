@@ -1,0 +1,16 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+}
+
+.footer{
+    font-size: 11px;
+    color: #4098cc;
+}
+
+.main-para{
+    color: #4098cc;
+}
